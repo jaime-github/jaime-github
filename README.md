@@ -25,3 +25,13 @@ Bancos de Dados
 </div>
 <br>
 <br>
+
+<p align="center">
+   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=jaime-github&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaime-github&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+
+<a href="https://github.com/jaime-github">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-github&theme=gruvbox&hide_langs_below=1" alt="Jaime Epifanio github stats"/>
+</a>
