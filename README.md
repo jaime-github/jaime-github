@@ -14,6 +14,9 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511982753145&text=Olá!)](https://api.whatsapp.com/send?phone=5511982753145&text=Olá!)
 [![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white&link=mailto:jaime-epifanio@hotmail.com)](mailto:jaime-epifanio@hotmail.com)<br><br>
 
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+
 ## **Tecnologias que eu uso no meu dia** 
 <div><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,7 +45,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=jaime-github&theme=gruvbox&hide_border=true" />
   </a>
 </p>
-
-<a href="https://github.com/jaime-github">
+<a href="https://github.com/jaime-github"
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaime-github&theme=gruvbox&hide_langs_below=1" alt="Jaime Epifanio github stats"/>
 </a>
+
