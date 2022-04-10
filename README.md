@@ -3,11 +3,11 @@
 ### Olá 👋 Meu nome é Jaime Epifanio.  Bem-vindo à minha página do GitHub.. <br> 
 
 #### Um pouco mais sobre mim ...
-- 🌱 Estudante de Desenvolvimento Full Stack👩‍🎓
-- 🤗 Pronome: ele/dele
+- 🌱 Estudante de Desenvolvimento Full Stack.👩‍🎓
+- 🤗 Pronome: ele/dele.
 - 😍 Dedicado e comprometido com o que eu faço.
 - 👩🏽‍💻 Adoro estudar e buscar soluções inovadoras.🚀
-- 😄 Gosto de trabalhar em equipe, compartilhar conhecimento e conhecer pessoas<br><br>
+- 😄 Gosto de trabalhar em equipe, compartilhar conhecimento e conhecer pessoas.<br><br>
 
 ## **Minhas redes Sociais**
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaime-epifanio/)](https://www.linkedin.com/in/jaime-epifanio/)
