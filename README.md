@@ -3,7 +3,7 @@
 ### Olá 👋 Meu nome é Jaime Epifanio.  Bem-vindo à minha página do GitHub.. <br> 
 
 #### Um pouco mais sobre mim ...
-- 🌱 Estudante de Desenvolvimento Full Stack.👩‍🎓
+- 🌱 Entusiasta e estudante de Desenvolvimento Web.👩‍🎓
 - 🤗 Pronome: ele/dele.
 - 😍 Dedicado e comprometido com o que eu faço.
 - 👩🏽‍💻 Adoro estudar e buscar soluções inovadoras.🚀
