@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/14335370/153728893-8473a4f6-3c86-4dba-8aef-26f7391bda54.gif" min-width="400px" max-width="400px" width="400px" align="right">
 
-### Olá 👋 Meu nome é Jaime Epifanio.  Bem-vindo à minha página do GitHub.. <br> 
+### Olá 👋 Meu nome é Jaime.  Bem-vindo à minha página do GitHub.. <br> 
 
 #### Um pouco mais sobre mim ...
 - 🌱 Entusiasta e estudante de Desenvolvimento Web.👩‍🎓
