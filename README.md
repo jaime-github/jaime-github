@@ -4,6 +4,7 @@
 
 #### Um pouco mais sobre mim ...
 - 🌱 Entusiasta e estudante de Desenvolvimento Web.👩‍🎓
+- 📚 Estudante e entusiasta de Metodologias Ágeis.🤓
 - 🤗 Pronome: ele/dele.
 - 😍 Dedicado e comprometido com o que eu faço.
 - 👩🏽‍💻 Adoro estudar e buscar soluções inovadoras.🚀
