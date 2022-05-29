@@ -3,7 +3,7 @@
 ### Olá 👋 Meu nome é Jaime.  Bem-vindo à minha página do GitHub.. <br> 
 
 #### Um pouco mais sobre mim ...
-- 🌱 Entusiasta e estudante de Desenvolvimento Web.👩‍🎓
+- 🌱 Entusiasta e estudante de Desenvolvimento Web Front-End.👩‍🎓
 - 📚 Estudante e entusiasta de Metodologias Ágeis.🤓
 - 🤗 Pronome: ele/dele.
 - 😍 Dedicado e comprometido com o que eu faço.
